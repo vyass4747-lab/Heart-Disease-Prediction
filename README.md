@@ -91,7 +91,7 @@ Target Variable:
 
 - Accuracy Score
 - F1 Score
-
+- Used Logistic regression model after comparing all classification models like logistic regression , SVM , Decision Tree , KNN and Naive bayes
 Model Accuracy:
 
 ```text
