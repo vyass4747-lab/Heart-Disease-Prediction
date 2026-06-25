@@ -104,16 +104,14 @@ Model Accuracy:
 
 ### Home Page
 
-![Home Page](screenshots/home.png)
+![Home page](Screenshots/Home.png)
 
 ### Prediction Example
 
-![Prediction](screenshots/prediction.png)
-
+![Prediction](Screenshots/Prediction.png)
 ### High Risk Result
 
-![High Risk](screenshots/high-risk.png)
-
+![High-risk](Screenshots/High-risk.png)
 ---
 
 ## 📂 Project Structure
